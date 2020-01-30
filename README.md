@@ -4,7 +4,7 @@
 
 -To Start:
 
-  run node index.js
+  node index.js
 
 -To build with Docker:
 
