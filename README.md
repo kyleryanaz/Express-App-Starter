@@ -1,8 +1,8 @@
 # Express-App-Starter
 
--Description: A starter kit for an express app using handlebars views.
+A starter kit for an express app using handlebars views.
 
--To Start:
+-To start:
 
   node index.js
 
